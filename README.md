@@ -6,7 +6,7 @@ This repository contains a predictive maintenance project focused on Electrical 
 
 The dataset used in this project is hosted on MEGA. You can access the data using the following link:
 
-[ESP Pump Dataset on MEGA](https://mega.nz/your_data_link)
+[ESP Pump Dataset on MEGA](https://mega.nz/folder/xqUUETSa#CVyWGbdFBFgYHZUO3eW4RQ)
 
 ## Key Features
 
